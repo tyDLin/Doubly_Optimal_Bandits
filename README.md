@@ -14,4 +14,4 @@ The MATLAB Implementations on both synthetic and real data are provided.
 
 # References
 
-W. Ba, T. Lin, J. Zhang and Z. Zhou. Doubly Optimal No-Regret Online Learning in Strongly Monotone Games with Bandit Feedback. ArXiv (https://arxiv.org/abs/2112.02856) and SSRN (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978421). 
+W. Ba, T. Lin, J. Zhang and Z. Zhou. Doubly Optimal No-Regret Online Learning in Strongly Monotone Games with Bandit Feedback. Operations Research. 
